@@ -122,6 +122,10 @@ classDiagram
     Cereals --> Places
 ```
 
+Изображение:
+
+![alt text](src/main/images/uml_diagram.png)
+
 ### Тестовое покрытие
 
 Тесты написаны с использованием JUnit 5 и покрывают как позитивные, так и граничные случаи.
