@@ -1,4 +1,4 @@
-package main.java.task3;
+package task3;
 
 public class Arthur extends Person {
     public Arthur(String name, String condition) {

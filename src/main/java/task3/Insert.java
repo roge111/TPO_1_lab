@@ -1,4 +1,4 @@
-package main.java.task3;
+package task3;
 
 public class Insert {
 

@@ -1,4 +1,4 @@
-package main.java.task3;
+package task3;
 
 public class Ford extends Person {
     public Ford(String name, String condition) {
